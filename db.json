@@ -1,6 +1,5 @@
 {
-  "posts": [
-    {
+  "posts": [{
       "id": 1,
       "name": "GoCut",
       "category": "lifestyle",
@@ -8,5 +7,21 @@
       "code": "12345678",
       "description": "This is a test 20% discount",
     },
+    {
+      "id": 2,
+      "name": "GoEat",
+      "category": "Food",
+      "locationTag": "Orchard",
+      "code": "12345678",
+      "description": "This is a test 20% discount for GoEat",
+    },
+    {
+      "id": 3,
+      "name": "GoShop",
+      "category": "Clothes",
+      "locationTag": "Stadium",
+      "code": "12345678",
+      "description": "This is a test 20% discount for GoShop",
+    }
   ],
 }
