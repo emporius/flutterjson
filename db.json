@@ -2,10 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "GoCut",
+      "category": "lifestyle",
+      "locationTag": "SuntecCity",
+      "code": "12345678",
+      "description": "This is a test 20% discount",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
