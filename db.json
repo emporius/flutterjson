@@ -1,31 +1,28 @@
 {
-  "posts": [
+  "items": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "GoCut",
+      "category": "lifestyle",
+      "locationTag": "SuntecCity",
+      "code": "12345678",
+      "description": "This is a test 20% discount",
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "GoEat",
+      "category": "Food",
+      "locationTag": "Orchard",
+      "code": "12345678",
+      "description": "This is a test 20% discount for GoEat",
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "GoShop",
+      "category": "Clothes",
+      "locationTag": "Stadium",
+      "code": "12345678",
+      "description": "This is a test 20% discount for GoShop",
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
