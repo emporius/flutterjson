@@ -4,11 +4,6 @@
       "id":"01",
       "ShopName":"GoCut",
       "Cat":"Fashion"
-    },
-    {
-      "id":"02",
-      "ShopName":"GoEat",
-      "Cat":"Food"
     }
   ]
 }
