@@ -1,9 +1,9 @@
 {
-  "items":[
+  "items": [
     {
       "id":"01",
       "ShopName":"GoCut",
-      "Cat":"Fashion",
+      "Cat":"Fashion"
     },
     {
       "id":"02",
