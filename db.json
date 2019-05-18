@@ -3,7 +3,8 @@
     {
       "id":"01",
       "ShopName":"GoCut",
-      "Cat":"Fashion"
+      "Cat":"Fashion",
+      "geotag":"234234"
     }
   ]
 }
