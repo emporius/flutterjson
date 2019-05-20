@@ -1,8 +1,20 @@
 {
-  "items": {
-      "id":"01",
-      "ShopName":"GoCut",
-      "Cat":"Fashion",
-      "GeoTag":234234
+  "items": [{
+      "id": 1,
+      "ShopName": "GoCut",
+      "Cat": "Fashion",
+      "GeoTag": 234234
+    }, {
+      "id": 2,
+      "ShopName": "GoBuy",
+      "Cat": "Retail",
+      "GeoTag": 124342
+    },
+    {
+      "id": 3,
+      "ShopName": "GoEat",
+      "Cat": "Food",
+      "GeoTag": 111222
     }
+  ]
 }
