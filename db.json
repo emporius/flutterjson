@@ -15,6 +15,17 @@
       "ShopName": "GoEat",
       "Cat": "Food",
       "GeoTag": 111222
+    }, {
+      "id": 4,
+      "ShopName": "GoTravel",
+      "Cat": "Travel",
+      "GeoTag": 123455
+    },
+    {
+      "id": 5,
+      "ShopName": "GoKaraoke",
+      "Cat": "Entertainment",
+      "GeoTag": 256256
     }
   ]
 }
